@@ -35,7 +35,6 @@ In the initial data preparation phase, we performed the following
 
 3. What is the total profit by category and sub-category for each market
 
-4. What are the most and least ordered pizza
+4. What is the profit ratio
 
 5. What are the accumulated profit by year and estimated profit for the future.
-
