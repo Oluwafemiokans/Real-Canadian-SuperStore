@@ -38,3 +38,10 @@ In the initial data preparation phase, we performed the following
 4. What is the profit ratio
 
 5. What are the accumulated profit by year and estimated profit for the future.
+
+## Recommendations
+
+1. I recommend delving into sales trends across different regions to identify growth opportunities and potential market expansion strategies.
+
+2. Analyzing customer segments, product performance, and shipping methods can help optimize operations and enhance customer satisfaction.
+
